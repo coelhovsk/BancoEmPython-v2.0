@@ -7,7 +7,7 @@ import saldo
 import apagar
 
 base = dict()
-print('-=< 𝒬𝓊𝑒𝓂 𝒫𝑜𝓊𝓅𝒶 𝒯𝑒𝓂  >=-')
+print('-=< BunnyBank  >=-')
 
 
 def menu():
